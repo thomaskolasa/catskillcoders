@@ -1,5 +1,7 @@
 ## Welcome to Catskill Coders
 
+![mountains](https://github.com/thomaskolasa/catskillcoders/blob/master/mountains_clouds.png)
+
 Catskill Coders is a free mentoring program with the goal of growing interest in technology in the Catskill region. 
 
 Due to Covid-19, many people had no choice but to start working remotely. Since more companies will be open to the idea of remote work, employees will no longer be expected to live in Silicon Valley or New York City. Instead, a new Silicon Valley can develop in the valleys of the Catskills. With the right preparation, rewarding jobs in the tech sector await those who work hard. 
