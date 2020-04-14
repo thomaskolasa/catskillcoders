@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Catskill Coders
 
-You can use the [editor on GitHub](https://github.com/thomaskolasa/catskillcoders/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Catskill Coders is a free mentoring program with the goal of growing interest in technology in the Catskill region. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Due to Covid-19, many people had no choice but to start working remotely. Since more companies will be open to the idea of remote work, employees will no longer be expected to live in Silicon Valley or New York City. Instead, a new Silicon Valley can develop in the valleys of the Catskills. With the right preparation, rewarding jobs in the tech sector await those who work hard. 
 
-### Markdown
+> Mission: To introduce rural and underprivileged youth and adults to computer science education and careers in technology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main purpose of this group is learning how to learn. No time in history had so many resources available to everyone via the internet. While there are countless courses, blog posts, and tutorials online, experienced mentorship and community can help make sense of the overload of materials.
 
-```markdown
-Syntax highlighted code block
+Our approach involves:
+- Guidance on which resources to pursue
+- Debugging help when getting stuck
+- Community support to hold you accountable
+- Experienced career coaching
 
-# Header 1
-## Header 2
-### Header 3
+## First Meeting
+Our first meeting will be remote on Saturday, May 2nd. If you are interested in joining, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo-j698pEHPJWOYy-80oK899B6n4g2eb7pbKBfk__oOEYKrg/viewform). All you need is a phone or computer, internet, (Zoom?), and determination.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomaskolasa/catskillcoders/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+...
