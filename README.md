@@ -1,6 +1,6 @@
 ## Welcome to Catskill Coders
 
-![mountains](https://github.com/thomaskolasa/catskillcoders/blob/master/mountains_clouds.png)
+![mountains](https://github.com/thomaskolasa/catskillcoders/blob/master/mountainsclouds.png)
 
 Catskill Coders is a free mentoring program with the goal of growing interest in technology in the Catskill region. 
 
