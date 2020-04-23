@@ -16,7 +16,7 @@ Our approach involves:
 - Community support to hold you accountable
 - Experienced career coaching
 
-Who should join
+### Who should join?
 Catskill Coders is looking for coders just starting out their journeys. While it’s perfectly fine to have some experience, we will assume no background at all.
 
 ## First Meeting
