@@ -20,11 +20,11 @@ Our approach involves:
 Catskill Coders is looking for coders just starting out their journeys. While it’s perfectly fine to have some experience, we will assume no background at all.
 
 ## First Meeting
-Our first meeting will be remote on Saturday, May 2nd. If you are interested in joining, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo-j698pEHPJWOYy-80oK899B6n4g2eb7pbKBfk__oOEYKrg/viewform). All you need is a phone or computer, internet, and grit!
+Our first meeting will be remote at 10AM on Saturday, May 2nd. If you are interested in joining, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo-j698pEHPJWOYy-80oK899B6n4g2eb7pbKBfk__oOEYKrg/viewform). All you need is a phone or computer, internet, and grit!
 
 ### Contact
 Please reach out to catskillcoders@gmail.com with any questions.
 
 ### Team
 #### Thomas Kolasa
-Before the pandemic, [Thomas Kolasa](https://www.linkedin.com/in/thomaskolasa) traveled around the world teaching Artificial Intelligence and Machine Learning for DataRobot. He also has mentorship experience from his time at NYC Data Science Academy, where he guided students of all career levels to upskill and seek employment in advanced analytics. He holds a degree in Economics from Harvard University.
+Before the pandemic, [Thomas Kolasa](https://www.linkedin.com/in/thomaskolasa) traveled around the world teaching Artificial Intelligence and Machine Learning for tech unicorn DataRobot. He also has mentorship experience from his time at NYC Data Science Academy, where he guided students of all career levels to upskill and seek employment in advanced analytics. He holds a degree in Economics from Harvard University.
