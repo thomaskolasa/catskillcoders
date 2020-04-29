@@ -20,7 +20,7 @@ Our approach involves:
 Catskill Coders is looking for coders just starting out their journeys. While it’s perfectly fine to have some experience, we will assume no background at all.
 
 ## First Meeting
-Our first meeting will be remote at 10AM on Saturday, May 2nd. If you are interested in joining, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo-j698pEHPJWOYy-80oK899B6n4g2eb7pbKBfk__oOEYKrg/viewform). All you need is a phone or computer, internet, and grit!
+Our first meeting will be remote from 10-11:30AM on Saturday, May 2nd. If you are interested in joining, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo-j698pEHPJWOYy-80oK899B6n4g2eb7pbKBfk__oOEYKrg/viewform). All you need is a phone or computer, internet, and grit!
 
 ### Contact
 Please reach out to catskillcoders@gmail.com with any questions.
